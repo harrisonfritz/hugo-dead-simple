@@ -6,13 +6,13 @@
 
 @media screen and (min-width: 900px) {
   #search-input {
-    width: 42%;
+    width: 92%;
   }
 }
 
 @media screen and (min-width: 1150px) {
   #search-input {
-    width: 33%;
+    width: 93%;
   }
 }
 
